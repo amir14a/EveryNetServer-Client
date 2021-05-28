@@ -1,1 +1,1 @@
-# EveryNetServer-Client
+Client app for EveryNetServer
